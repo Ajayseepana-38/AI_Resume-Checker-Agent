@@ -44,14 +44,6 @@ This system uses AI to evaluate resumes based on various parameters such as skil
    * Email / Notification
    * Stored in database (optional)
 
----
-
-## 📁 Project Files
-
-* `blueprint.json` → Contains the full Make.com automation workflow
-
----
-
 ## 🚀 Deployment
 
 The project is deployed on Make.com:
