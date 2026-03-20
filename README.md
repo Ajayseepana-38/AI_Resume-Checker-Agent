@@ -103,10 +103,10 @@ The project is deployed on Make.com:
 
 ## 👨‍💻 Author
 
-Your Name
+SEEPANA AJAY
 
 ---
 
 ## 📬 Contact
 
-(Your Email / LinkedIn)
+(ajayseepana75@gmail.com / www.linkedin.com/in/ajay-seepana)
